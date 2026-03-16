@@ -125,6 +125,3 @@ python client/gradio_app.py
 
 欢迎提交 Issue 或 Pull Request 进行改进。本项目采用 MIT 许可证。
 
-**开发者**: 
-*   汪奕辰 (U202414702) - 全栈开发/模型架构
-*   石俊贤 (U202414698) - 前端交互/数据清洗
