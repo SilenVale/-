@@ -1,0 +1,437 @@
+{"id": "mintrec_0", "text": "you're gonna go back and work on that register", "image": "data/S06_E04_70_0_6.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_1", "text": "corned beef and cabbage are 20% off.", "image": "data/S05_E18_121_0_5.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_2", "text": "i'm not really that happy with you either.", "image": "data/S04_E13_377_0_2.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_3", "text": "don't be stingy with the squirts.", "image": "data/S05_E07_525_0_2.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_4", "text": "don't worry, sandra saw it and she didn't say anything.", "image": "data/S04_E04_158_0_3.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_5", "text": "you guys are the best. i love you all.", "image": "data/S05_E14_12_20_1.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_6", "text": "what? wait, no, no.", "image": "data/S05_E10_192_0_4.jpg", "label": "severe", "original_label": "Prevent"}
+{"id": "mintrec_7", "text": "hey, how's it going?", "image": "data/S04_E03_437_30_2.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_8", "text": "yeah. yeah. this is definitely overboard.", "image": "data/S04_E11_270_0_4.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_9", "text": "god, i can't take it!", "image": "data/S04_E04_216_0_2.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_10", "text": "amy, i need to report an employee theft.", "image": "data/S05_E15_230_0_3.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_11", "text": "don't worry about it.", "image": "data/S06_E07_424_0_2.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_12", "text": "thank you.", "image": "data/S05_E21_95_10_4.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_13", "text": "thanks.", "image": "data/S06_E02_526_0_6.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_14", "text": "this lipstick is stay all day", "image": "data/S05_E12_111_20_6.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_15", "text": "i'm sorry.", "image": "data/S06_E04_123_0_1.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_16", "text": "i'm gonna check on gerald, see if he's done crying in the men's room.", "image": "data/S05_E07_523_0_4.jpg", "label": "severe", "original_label": "Taunt"}
+{"id": "mintrec_17", "text": "yeah, and you wouldn't give me the day off to skype with my boyfriend.", "image": "data/S05_E13_23_20_8.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_18", "text": "hey, guys. having fun?", "image": "data/S05_E14_185_0_9.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_19", "text": "no, you guys don't have to come with me.", "image": "data/S05_E10_176_0_3.jpg", "label": "severe", "original_label": "Prevent"}
+{"id": "mintrec_20", "text": "great. let's get back to work.", "image": "data/S05_E19_41_0_3.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_21", "text": "sorry, i got caught up in the moment.", "image": "data/S05_E20_440_0_2.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_22", "text": "she can't stand that i have authority now", "image": "data/S05_E13_244_10_4.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_23", "text": "i think we should probably hear a few more, uh, female voices.", "image": "data/S05_E11_426_10_2.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_24", "text": "oh, well, thanks.", "image": "data/S06_E07_576_10_2.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_25", "text": "you've gone power mad.", "image": "data/S06_E03_551_0_2.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_26", "text": "i don't even know who you're thinking of.", "image": "data/S04_E16_387_0_3.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_27", "text": "amy, sorry to interrupt", "image": "data/S05_E18_39_10_6.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_28", "text": "why shouldn't we have a debate?", "image": "data/S06_E03_481_20_6.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_29", "text": "wait, it's- hey, stop... stop!", "image": "data/S05_E09_168_0_2.jpg", "label": "severe", "original_label": "Prevent"}
+{"id": "mintrec_30", "text": "i would give jonah a lap dance in a second", "image": "data/S06_E03_436_10_3.jpg", "label": "mild", "original_label": "Joke"}
+{"id": "mintrec_31", "text": "cheyenne, give her the axe.", "image": "data/S05_E10_243_0_3.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_32", "text": "next order of business,we're going to be holding an employee costume competition today.", "image": "data/S04_E04_42_0_4.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_33", "text": "that's past the property line.", "image": "data/S06_E07_535_0_3.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_34", "text": "bo's mom calls, like, all the time.", "image": "data/S04_E02_159_0_3.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_35", "text": "to award the golden vest...", "image": "data/S04_E03_165_0_2.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_37", "text": "yeah, but i don't think anyone should have that much power.", "image": "data/S05_E18_546_10_2.jpg", "label": "severe", "original_label": "Oppose"}
+{"id": "mintrec_38", "text": "i 'm just saying that you should tell garrett", "image": "data/S06_E10_414_10_2.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_39", "text": "it's a pipe organ.", "image": "data/S05_E15_8_0_6.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_40", "text": "that's tommy. he's lead organizer, total badass.", "image": "data/S05_E19_110_10_2.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_41", "text": "thank you so much.", "image": "data/S04_E02_522_0_5.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_42", "text": "dina's right, you don't know fashion.", "image": "data/S04_E13_124_0_2.jpg", "label": "severe", "original_label": "Taunt"}
+{"id": "mintrec_43", "text": "oh, yeah, she's great.", "image": "data/S04_E06_114_10_5.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_44", "text": "this pops  tony danza brand popcorn cartridges only.", "image": "data/S05_E10_113_0_3.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_45", "text": "'cause then i could hit on this bodacious babe.", "image": "data/S04_E05_216_0_3.jpg", "label": "mild", "original_label": "Joke"}
+{"id": "mintrec_46", "text": "you need to go back up to her and tell her", "image": "data/S04_E14_307_0_3.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_47", "text": "oh, hey. dina, what's up?", "image": "data/S06_E08_109_10_2.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_48", "text": "why are you telling people that i'm  lying like a syrian ?", "image": "data/S04_E08_430_0_3.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_49", "text": "anyway, zephra also asked me to set up a video conference", "image": "data/S05_E15_185_20_3.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_50", "text": "this is a great debate for another time.", "image": "data/S05_E09_21_0_5.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_51", "text": "we have, and we want to apologize.", "image": "data/S05_E13_440_0_3.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_52", "text": "we just solved our first business crisis.", "image": "data/S04_E09_222_0_4.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_53", "text": "so thank you all so much for my gifts.", "image": "data/S04_E02_507_0_15.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_54", "text": "uh, no, that definitely wasn't me.", "image": "data/S05_E19_64_10_3.jpg", "label": "severe", "original_label": "Oppose"}
+{"id": "mintrec_55", "text": "carol and justine, i'm moving you to school supplies.", "image": "data/S04_E01_96_0_5.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_56", "text": "but i need you to go empty the rat traps.", "image": "data/S04_E07_268_20_9.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_57", "text": "leading scientist admits earth is flat.", "image": "data/S06_E09_360_10_3.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_58", "text": "i really appreciate jerusha watching parker.", "image": "data/S05_E18_510_10_4.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_59", "text": "thanks.", "image": "data/S05_E19_3_10_3.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_60", "text": "i am so sorry", "image": "data/S05_E16_556_20_1.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_61", "text": "jonah, i don't feel you were fair to me--", "image": "data/S04_E03_360_0_3.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_62", "text": "oh, she is the devil.", "image": "data/S04_E11_120_10_6.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_63", "text": "you are bright. your numbers are great.", "image": "data/S05_E07_510_0_4.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_64", "text": "oh, hey, dina.", "image": "data/S05_E09_587_10_4.jpg", "label": "aligned", "original_label": "Greet"}
+{"id": "mintrec_65", "text": "hey, you don't have to be ashamed.", "image": "data/S05_E11_221_10_4.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_66", "text": "now, i'm gonna be a little busy.", "image": "data/S05_E09_22_0_5.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_67", "text": "and this is the break room.", "image": "data/S05_E17_228_20_4.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_68", "text": "i was just, um...i'm sorry.", "image": "data/S04_E10_169_0_5.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_69", "text": "it couldn't hurt to shake things up a little bit here.", "image": "data/S06_E03_150_10_2.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_71", "text": "one-  it's a cereal bar!", "image": "data/S05_E15_26_0_4.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_72", "text": "take one whack, all right?", "image": "data/S05_E10_245_20_2.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_73", "text": "look, all i'm saying is that you don't have to worry", "image": "data/S05_E09_236_0_3.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_74", "text": "i am going to sit in traffic for 45 minutes and return this.", "image": "data/S06_E07_287_100_2.jpg", "label": "mild", "original_label": "Leave"}
+{"id": "mintrec_75", "text": "amy, why don't you be the manager, and you're gonna talk to cheyenne about her repeated absences.", "image": "data/S04_E10_332_0_11.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_76", "text": "i can just take off.", "image": "data/S05_E20_391_0_2.jpg", "label": "mild", "original_label": "Leave"}
+{"id": "mintrec_77", "text": "hey, carol. welcome back.", "image": "data/S05_E19_457_10_3.jpg", "label": "aligned", "original_label": "Greet"}
+{"id": "mintrec_78", "text": "come on, it wasn't that bad.", "image": "data/S04_E17_170_0_3.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_79", "text": "yeah, those babies look great.", "image": "data/S05_E08_536_0_3.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_80", "text": "you knocked over that cone back there, dog--i want a rematch.", "image": "data/S04_E02_440_10_9.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_81", "text": "so, girl, how is your day going?", "image": "data/S05_E19_227_0_2.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_82", "text": "maybe, instead, we should make them feel", "image": "data/S05_E11_328_40_5.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_83", "text": "okay, it doesn't matter.", "image": "data/S05_E12_351_0_2.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_85", "text": "but you are coming on way too strong", "image": "data/S05_E18_285_0_4.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_86", "text": "hey! just coming by to say hey.", "image": "data/S05_E15_491_0_5.jpg", "label": "aligned", "original_label": "Greet"}
+{"id": "mintrec_87", "text": "i'll make sure to get the rest of those boxes.", "image": "data/S05_E19_429_0_2.jpg", "label": "mild", "original_label": "Leave"}
+{"id": "mintrec_88", "text": "no, no, it's- it's fine, it's fine.", "image": "data/S05_E17_82_10_2.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_89", "text": "but i can't forgive myself for leaving you for it.", "image": "data/S05_E12_281_0_8.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_90", "text": "i'm already three orders behind!", "image": "data/S05_E09_196_0_2.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_91", "text": "sorry, i've just been feeling a little down lately.", "image": "data/S06_E04_164_0_2.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_92", "text": "i probably should've led with that, but you just kept talking and talking about how great you're doing.", "image": "data/S05_E17_397_0_7.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_93", "text": "this place is crawling with raccoons.", "image": "data/S04_E12_156_0_5.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_94", "text": "hey.", "image": "data/S04_E01_194_0_1.jpg", "label": "aligned", "original_label": "Greet"}
+{"id": "mintrec_95", "text": "yeah.", "image": "data/S05_E12_447_0_2.jpg", "label": "aligned", "original_label": "Agree"}
+{"id": "mintrec_96", "text": "oh, yes, thank you.", "image": "data/S04_E08_335_10_8.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_97", "text": "yeah. yeah, i would say that.", "image": "data/S05_E17_292_0_6.jpg", "label": "aligned", "original_label": "Agree"}
+{"id": "mintrec_98", "text": "carol, you can probably just go start your shift now.", "image": "data/S06_E10_26_10_5.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_99", "text": "sucks.", "image": "data/S05_E17_591_0_7.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_100", "text": "so how's your toast coming?", "image": "data/S05_E14_76_0_4.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_101", "text": "well, it affects my work.", "image": "data/S05_E11_401_10_8.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_102", "text": "how you doing?", "image": "data/S05_E20_417_0_1.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_103", "text": "sorry i'm being so insensitive.", "image": "data/S05_E18_279_10_6.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_104", "text": "i just had a really hard year.", "image": "data/S05_E16_481_0_2.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_106", "text": "the guy's a monster.", "image": "data/S04_E10_506_0_11.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_107", "text": "mateo, give him his gift card.", "image": "data/S05_E08_304_0_4.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_108", "text": "corporate is asking us to run everybody through e-verify, and there's a bit of a problem.", "image": "data/S04_E08_50_0_9.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_109", "text": "totally. sounds great.", "image": "data/S05_E09_134_0_3.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_110", "text": "hey, we have a problem.", "image": "data/S04_E04_309_0_5.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_111", "text": "no, ken, that's my car. that's the managers spot.", "image": "data/S06_E06_42_10_2.jpg", "label": "severe", "original_label": "Oppose"}
+{"id": "mintrec_112", "text": "foul on the play!", "image": "data/S05_E08_230_0_3.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_113", "text": "please gather in the break room", "image": "data/S05_E07_194_10_7.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_114", "text": "let's not use the word  crazy.", "image": "data/S05_E19_165_0_4.jpg", "label": "severe", "original_label": "Prevent"}
+{"id": "mintrec_115", "text": "then they shouldn't have started talking trash about us.", "image": "data/S04_E11_416_0_6.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_116", "text": "we should just take it from the top.", "image": "data/S05_E08_500_10_7.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_117", "text": "hey, man, don't touch my tummy!", "image": "data/S05_E06_103_0_2.jpg", "label": "severe", "original_label": "Prevent"}
+{"id": "mintrec_118", "text": "thank you for coming.", "image": "data/S05_E21_143_0_6.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_119", "text": "hannah, can you update the sim card on the robot?", "image": "data/S06_E10_436_0_4.jpg", "label": "aligned", "original_label": "Ask for help"}
+{"id": "mintrec_120", "text": "and here's the guy we have to thank.", "image": "data/S06_E05_388_0_2.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_121", "text": "i better go tell her.", "image": "data/S05_E15_470_0_2.jpg", "label": "mild", "original_label": "Leave"}
+{"id": "mintrec_122", "text": "oh, hey, guys, i don't know if you heard, but sandra's cat died yesterday", "image": "data/S06_E06_575_20_12.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_123", "text": "that's a great idea. oh, my--", "image": "data/S04_E02_272_10_6.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_124", "text": "close. they're supercloud step trackers.", "image": "data/S04_E11_5_10_4.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_125", "text": "i think jerry should have ended up with carol!", "image": "data/S06_E04_532_10_8.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_126", "text": "it looked kind of like an inside-out otter.", "image": "data/S06_E04_577_0_3.jpg", "label": "mild", "original_label": "Joke"}
+{"id": "mintrec_127", "text": "please, i should be thanking you.", "image": "data/S05_E09_571_0_3.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_128", "text": "and he's going to be taking over for glenn as manager.", "image": "data/S04_E14_277_0_5.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_129", "text": "i did, that was awesome.", "image": "data/S04_E10_476_0_2.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_130", "text": "sorry, i meant to say that i also have", "image": "data/S05_E16_551_0_2.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_131", "text": "i got a meeting--party.", "image": "data/S04_E05_487_0_2.jpg", "label": "mild", "original_label": "Leave"}
+{"id": "mintrec_132", "text": "connie, i love that dress.", "image": "data/S04_E17_113_0_9.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_133", "text": "fast as lightning, but sharper.", "image": "data/S05_E12_332_0_12.jpg", "label": "mild", "original_label": "Flaunt"}
+{"id": "mintrec_134", "text": "jonah and amy are at each other's throats.", "image": "data/S04_E03_292_0_2.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_135", "text": "a teenager bought 144 cans of chafing fuel", "image": "data/S05_E16_339_10_4.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_136", "text": "never mind.", "image": "data/S05_E06_289_0_4.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_137", "text": "might have everybody a little bit on edge, but i mean, everybody gets that you guys matter. we're all good.", "image": "data/S05_E11_308_0_2.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_138", "text": "maybe we should humanize it.", "image": "data/S05_E08_215_0_6.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_139", "text": "there, see, was that so hard?", "image": "data/S04_E16_534_0_2.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_140", "text": "thanks, that's comforting.", "image": "data/S06_E04_574_10_3.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_141", "text": "i, um, can type 100 words per minute.", "image": "data/S05_E13_208_20_5.jpg", "label": "mild", "original_label": "Flaunt"}
+{"id": "mintrec_142", "text": "what up, dave, is that i asked you hours ago  to assemble the turtle wax endcap, and it's still not done.", "image": "data/S05_E07_354_100_4.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_143", "text": "can you back me up here, please?", "image": "data/S05_E12_61_10_4.jpg", "label": "aligned", "original_label": "Ask for help"}
+{"id": "mintrec_144", "text": "hey, maya's here.", "image": "data/S05_E07_23_0_3.jpg", "label": "aligned", "original_label": "Greet"}
+{"id": "mintrec_145", "text": "yeah, i think i'm gonna head to my car", "image": "data/S05_E06_361_10_3.jpg", "label": "mild", "original_label": "Leave"}
+{"id": "mintrec_146", "text": "just tell 'em to take it down and get back to work.", "image": "data/S05_E11_321_30_6.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_147", "text": "i'm, uh, sorry about the mess.", "image": "data/S05_E09_570_0_4.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_148", "text": "oh, thank you for watching her.", "image": "data/S04_E10_528_0_4.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_149", "text": "oh, nothing. just having a little thing at my place.", "image": "data/S05_E13_145_0_3.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_150", "text": "thanks, amy.", "image": "data/S05_E12_344_0_3.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_151", "text": "ah, sand--sandra, i am gonna have you set up the display today.", "image": "data/S05_E13_10_0_3.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_152", "text": "you sure i can't get you a drink?", "image": "data/S05_E14_419_10_2.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_153", "text": "sorry. text from dina.", "image": "data/S05_E16_175_0_5.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_154", "text": "have you guys worked things out?", "image": "data/S05_E13_439_0_3.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_155", "text": "she doesn't want us!", "image": "data/S04_E02_181_10_6.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_156", "text": "you guys should file a complaint with the company.", "image": "data/S05_E15_160_0_2.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_157", "text": "i thought you were, but then they started following me around; they started searching my stuff.", "image": "data/S05_E16_440_20_2.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_158", "text": "anyway, dina i can't go this year", "image": "data/S04_E08_6_10_5.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_159", "text": "they looked great.", "image": "data/S05_E09_172_0_4.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_160", "text": "sandra, come on. let's go.", "image": "data/S05_E15_482_0_2.jpg", "label": "mild", "original_label": "Leave"}
+{"id": "mintrec_161", "text": "hey, sandra, this order just says  pot.", "image": "data/S05_E09_102_0_5.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_162", "text": "hi, uh, i'm brian, by the way. i'm dina's boyfriend.", "image": "data/S05_E20_527_0_7.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_163", "text": "oh, yeah, definitely.", "image": "data/S05_E16_85_10_2.jpg", "label": "aligned", "original_label": "Agree"}
+{"id": "mintrec_165", "text": "my name is dina fox, and my goal here today is", "image": "data/S05_E07_162_0_9.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_166", "text": "and i thought it would be the same, but it's not!", "image": "data/S04_E13_225_0_3.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_167", "text": "i think i've won her over.", "image": "data/S05_E17_390_0_2.jpg", "label": "mild", "original_label": "Flaunt"}
+{"id": "mintrec_168", "text": "but it's not really your fault.", "image": "data/S06_E08_542_10_2.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_169", "text": "thank you.", "image": "data/S06_E07_388_10_2.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_170", "text": "i thought it was screaming, but i guess i was silent, because you muted me. you took away my voice.", "image": "data/S05_E16_297_0_2.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_171", "text": "i can do impressions too.", "image": "data/S04_E03_456_0_4.jpg", "label": "mild", "original_label": "Joke"}
+{"id": "mintrec_172", "text": "who wore it best, and the winner gets...", "image": "data/S04_E04_45_0_15.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_173", "text": "new policy. starting now, there will be absolutely no personal talk on the floor.", "image": "data/S06_E04_252_0_2.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_174", "text": "you stole jerry from me.", "image": "data/S05_E19_19_20_2.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_175", "text": "thank you. you know, kelly", "image": "data/S05_E06_409_0_10.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_176", "text": "we should just send justine home, right?", "image": "data/S06_E01_282_10_2.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_177", "text": "so, look, i think it's great you're out here", "image": "data/S05_E08_158_0_2.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_178", "text": "honestly, really great", "image": "data/S05_E17_387_0_3.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_179", "text": "um, georgia is kind of a legend.", "image": "data/S05_E10_89_0_3.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_180", "text": "i'm just gonna hand out shift assignments", "image": "data/S06_E01_482_0_6.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_181", "text": "duh. i'm sorry, mateo.", "image": "data/S05_E09_180_0_3.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_182", "text": "their beauty standers are way lower", "image": "data/S05_E11_370_10_9.jpg", "label": "severe", "original_label": "Taunt"}
+{"id": "mintrec_183", "text": "hm. eugene, could you get those boxes off from the top shelf, and take them to the back?", "image": "data/S05_E13_122_0_2.jpg", "label": "aligned", "original_label": "Ask for help"}
+{"id": "mintrec_184", "text": "the colors are packaged so you know they go together.", "image": "data/S05_E12_249_10_4.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_185", "text": "yeah, yeah, you're right. you're right.", "image": "data/S06_E02_80_0_2.jpg", "label": "aligned", "original_label": "Agree"}
+{"id": "mintrec_186", "text": "this sucks.", "image": "data/S05_E08_572_0_6.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_187", "text": "their tablets barely hold a charge.", "image": "data/S06_E09_308_0_2.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_188", "text": "great. awesome.", "image": "data/S05_E13_128_0_4.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_189", "text": "so starting now, if anybody buys one of these without a warning and they die, we're liable.", "image": "data/S05_E16_331_100_2.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_190", "text": "okay.", "image": "data/S05_E15_161_10_2.jpg", "label": "aligned", "original_label": "Agree"}
+{"id": "mintrec_191", "text": "that long. what have you been up to?", "image": "data/S04_E07_372_0_3.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_192", "text": "is everything okay?", "image": "data/S05_E15_294_10_4.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_194", "text": "how's the peeing going?", "image": "data/S05_E16_389_20_6.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_195", "text": "oh, that is wonderful.", "image": "data/S05_E21_66_10_2.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_196", "text": "uh, i'm sorry.", "image": "data/S05_E10_227_0_6.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_197", "text": "but i think it might be easier if you just wrote it down.", "image": "data/S06_E05_192_0_5.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_198", "text": "kaluiokalani sounds made-up. anyway, just tell him i'm dead.", "image": "data/S05_E12_176_0_2.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_199", "text": "why can't i just delete the registry?", "image": "data/S04_E02_183_20_3.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_200", "text": "i'm sorry, marcus.", "image": "data/S06_E07_589_0_4.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_201", "text": "huh, you know, that's a good point.", "image": "data/S05_E11_530_10_5.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_202", "text": "all you have to do today is hand out these nifty care packages to the holloway house women's shelter", "image": "data/S05_E17_12_0_6.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_203", "text": "honestly, you're- you're really beautiful.", "image": "data/S04_E06_41_0_2.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_204", "text": "i did. i did. i blew it.", "image": "data/S05_E10_468_0_2.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_205", "text": "you don't need to. no.", "image": "data/S05_E11_8_10_2.jpg", "label": "severe", "original_label": "Oppose"}
+{"id": "mintrec_206", "text": "garrett's like a really nice guy and funny and cute.", "image": "data/S06_E10_396_10_2.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_207", "text": "the governor shut down all indoor dining.", "image": "data/S06_E01_105_0_3.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_208", "text": "good morning, store 1217.", "image": "data/S05_E15_1_0_14.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_209", "text": "excuse me, do you know anything about drills?", "image": "data/S04_E07_244_10_1.jpg", "label": "aligned", "original_label": "Ask for help"}
+{"id": "mintrec_210", "text": "okay, anyway, i need to get a head count so i know who's coming.", "image": "data/S04_E16_24_0_3.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_211", "text": "hey, so i just wanted to apologize", "image": "data/S06_E02_246_30_2.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_212", "text": "not a refugee, like you. knock on wood.", "image": "data/S04_E08_266_0_5.jpg", "label": "severe", "original_label": "Taunt"}
+{"id": "mintrec_213", "text": "she threw a mustard jar at me. it left a bruise... on my thigh.", "image": "data/S06_E03_389_100_3.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_214", "text": "and we thought of you", "image": "data/S06_E07_333_0_3.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_215", "text": "beautiful.", "image": "data/S05_E08_534_0_2.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_216", "text": "both jonah and cheyenne wanna be floor supervisor.", "image": "data/S06_E03_219_0_1.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_217", "text": "but i thought we'd make a list of the other issues corporate needs to address.", "image": "data/S06_E05_167_0_2.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_218", "text": "this is a map of the night stars over st. louis where we met.", "image": "data/S05_E17_453_100_5.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_219", "text": "i don't think that's what i said at all.", "image": "data/S05_E09_366_0_5.jpg", "label": "severe", "original_label": "Oppose"}
+{"id": "mintrec_220", "text": "she's a real grumplestiltskin.", "image": "data/S04_E16_398_10_7.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_221", "text": "hey, garrett.", "image": "data/S05_E13_304_0_5.jpg", "label": "aligned", "original_label": "Greet"}
+{"id": "mintrec_222", "text": "okay, let's start by hearing everybody's work experience.", "image": "data/S05_E13_190_0_7.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_223", "text": "i guess it's defective, just like the two of you!", "image": "data/S06_E06_466_0_2.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_224", "text": "just say that you were with bo all night last thursday.", "image": "data/S05_E13_139_0_5.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_225", "text": "you look good and you better get your prize", "image": "data/S05_E06_473_0_2.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_226", "text": "it was a...anniversary present for my wife", "image": "data/S04_E07_160_0_4.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_227", "text": "two babies enter, one baby leaves.", "image": "data/S05_E18_513_0_5.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_228", "text": "ah mateo, that's awesome!", "image": "data/S05_E13_169_10_5.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_229", "text": "ladies, this is the embalming conference.", "image": "data/S04_E10_28_20_5.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_230", "text": "yours was just, like, attitude, which is fine.", "image": "data/S06_E09_384_10_3.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_231", "text": "we've got a really exciting covid announcement.", "image": "data/S06_E06_20_0_2.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_232", "text": "if you could just put all the raw footage on there.", "image": "data/S04_E17_472_0_8.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_233", "text": "they don't even have to pay for their aroma-therapy diffusers. how is that fair?", "image": "data/S04_E08_510_0_3.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_234", "text": "it's not that bad.", "image": "data/S05_E16_250_20_5.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_235", "text": "okay, fine, whatever. let's just go.", "image": "data/S05_E10_183_0_2.jpg", "label": "mild", "original_label": "Leave"}
+{"id": "mintrec_236", "text": "girl, don't be so hard up on yourself, okay? i'm sure it's not nearly as bad as you--.", "image": "data/S04_E13_227_100_4.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_237", "text": "thank you, glenn.", "image": "data/S05_E07_77_0_4.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_238", "text": "she was great. and funny.", "image": "data/S04_E06_313_0_2.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_239", "text": "you first, justine.", "image": "data/S05_E13_192_0_8.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_240", "text": "he's in a handball league, he had a deaf girlfriend", "image": "data/S04_E09_146_0_2.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_241", "text": "well, i mean, you almost made me kill your cat.", "image": "data/S05_E19_17_10_2.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_242", "text": "i'm gonna pass out the tomatoes.", "image": "data/S05_E07_430_0_8.jpg", "label": "mild", "original_label": "Leave"}
+{"id": "mintrec_243", "text": "that squeaks. that's what squirrels do.", "image": "data/S05_E18_210_0_3.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_244", "text": "this is too much pressure.", "image": "data/S04_E16_114_0_3.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_245", "text": "and actually,maybe you could talk to him about sex and stuff.", "image": "data/S06_E03_90_10_2.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_246", "text": "well, amy is at the eye doctor.", "image": "data/S05_E21_119_0_7.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_247", "text": "i gotta go tag in.", "image": "data/S05_E21_197_10_2.jpg", "label": "mild", "original_label": "Leave"}
+{"id": "mintrec_248", "text": "you just throw it in a cart like a sack of margarine.", "image": "data/S04_E10_217_20_2.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_249", "text": "nobody's getting fired. get out of your head.", "image": "data/S05_E07_20_0_3.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_250", "text": "stop, please.", "image": "data/S04_E13_85_0_2.jpg", "label": "severe", "original_label": "Prevent"}
+{"id": "mintrec_251", "text": "that's good advice.", "image": "data/S05_E08_397_10_2.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_252", "text": "i know you're lying!", "image": "data/S05_E21_199_0_2.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_253", "text": "and i was wondering if maybe you'd be willing to write a letter of recommendation", "image": "data/S04_E09_13_10_2.jpg", "label": "aligned", "original_label": "Ask for help"}
+{"id": "mintrec_254", "text": "sorry. i'm so sorry, judy.", "image": "data/S05_E17_461_0_2.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_255", "text": "cease fire! cease fire!", "image": "data/S04_E01_446_0_6.jpg", "label": "severe", "original_label": "Prevent"}
+{"id": "mintrec_256", "text": "this is a very good plan.", "image": "data/S05_E14_477_10_3.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_257", "text": "no, you don't get a gift card for every stupid little army man.", "image": "data/S05_E08_308_0_4.jpg", "label": "severe", "original_label": "Oppose"}
+{"id": "mintrec_258", "text": "these people, they're evil.", "image": "data/S05_E07_535_10_3.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_259", "text": "and crestwood came around... hey!", "image": "data/S05_E06_204_10_3.jpg", "label": "aligned", "original_label": "Greet"}
+{"id": "mintrec_261", "text": "you're hurt.", "image": "data/S05_E09_512_0_5.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_262", "text": "actually, i really need to get out.", "image": "data/S05_E10_171_0_3.jpg", "label": "mild", "original_label": "Leave"}
+{"id": "mintrec_263", "text": "yeah, they're jordan 11 retro concords.", "image": "data/S04_E16_420_0_6.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_264", "text": "sandra's sister is useless, and jerry's family members", "image": "data/S05_E14_139_10_2.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_265", "text": "it's homemade.", "image": "data/S05_E07_340_10_3.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_266", "text": "i just wanted to apologize for earlier.", "image": "data/S05_E19_459_0_9.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_267", "text": "thanks.", "image": "data/S05_E14_265_0_3.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_268", "text": "see, look at my dress. it's spotless.", "image": "data/S05_E19_213_10_3.jpg", "label": "mild", "original_label": "Flaunt"}
+{"id": "mintrec_269", "text": "no, you're right. you're right.", "image": "data/S05_E12_293_0_6.jpg", "label": "aligned", "original_label": "Agree"}
+{"id": "mintrec_270", "text": "i'm like a sitting duck in customer service. you have any idea how wet-lipped", "image": "data/S06_E01_225_0_3.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_271", "text": "just a heads up, you might be getting a call", "image": "data/S05_E17_96_0_3.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_272", "text": "right, yes, yeah, yeah. that's a good- that's a good point.", "image": "data/S05_E11_425_10_2.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_273", "text": "okay, i gotta get going.", "image": "data/S05_E18_552_0_2.jpg", "label": "mild", "original_label": "Leave"}
+{"id": "mintrec_274", "text": "yes, definitely.", "image": "data/S05_E14_152_0_6.jpg", "label": "aligned", "original_label": "Agree"}
+{"id": "mintrec_276", "text": "so you either interview amy,or i file a 31-j with kyle robichot.", "image": "data/S04_E14_198_0_4.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_277", "text": "yup, that was pretty cool of corporate to fix it.", "image": "data/S06_E05_26_10_7.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_278", "text": "zephra finally sent over the safety protocols.", "image": "data/S06_E01_208_10_2.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_279", "text": "thanks.", "image": "data/S05_E14_111_0_4.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_280", "text": "but properly distanced, so don't move your chairs.", "image": "data/S06_E01_355_10_7.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_281", "text": "i appreciate that you bought american!", "image": "data/S05_E09_485_0_4.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_282", "text": "what happened with amy?", "image": "data/S06_E07_488_0_2.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_283", "text": "that is a good point, dina.", "image": "data/S05_E11_373_10_3.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_284", "text": "quick covid safety reminder:", "image": "data/S06_E02_1_20_6.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_285", "text": "this is great, this is healthy, this is--this is--", "image": "data/S05_E11_447_10_3.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_286", "text": "or girlfriend, what does she think about all your birds?", "image": "data/S05_E16_561_0_2.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_287", "text": "but, uh, we got some more partying to do, folks.", "image": "data/S04_E17_286_10_1.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_288", "text": "oh, wow. i look like a hot, glowing stanley tucci.", "image": "data/S04_E02_386_0_2.jpg", "label": "mild", "original_label": "Joke"}
+{"id": "mintrec_289", "text": "make a reservation at ramona's.", "image": "data/S05_E18_535_10_2.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_290", "text": "thanks for filling in.", "image": "data/S04_E05_417_0_3.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_291", "text": "oh, yeah.", "image": "data/S05_E17_100_10_3.jpg", "label": "aligned", "original_label": "Agree"}
+{"id": "mintrec_292", "text": "not a problem for me.", "image": "data/S06_E04_89_0_2.jpg", "label": "mild", "original_label": "Flaunt"}
+{"id": "mintrec_293", "text": "oh, hey, amy.", "image": "data/S05_E12_361_0_6.jpg", "label": "aligned", "original_label": "Greet"}
+{"id": "mintrec_294", "text": "it's the parents you want to impress", "image": "data/S05_E20_25_0_2.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_295", "text": "you gotta show her these before you dump her.", "image": "data/S05_E08_535_0_2.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_296", "text": "no, you know what? uh, everything's not all right.", "image": "data/S05_E16_436_0_4.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_297", "text": "uh, sandra, can you take the lead on that?", "image": "data/S05_E06_10_0_2.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_298", "text": "halloween surfboard.  it's just stupid!", "image": "data/S04_E04_291_0_1.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_299", "text": "you did? aww, thanks, garrett.", "image": "data/S06_E03_326_0_2.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_300", "text": "maybe dina shouldn't have brought her loud, dirty birds into work.", "image": "data/S04_E13_13_10_3.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_301", "text": "no, no, jurgen steals all my jobs.", "image": "data/S05_E19_425_0_2.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_302", "text": "okay, bo, stop. all right?", "image": "data/S05_E07_328_0_4.jpg", "label": "severe", "original_label": "Prevent"}
+{"id": "mintrec_303", "text": "hey! i got you a little congratulations gift", "image": "data/S06_E10_238_20_2.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_304", "text": "um--oh, yeah, she is great.", "image": "data/S05_E12_335_10_3.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_305", "text": "okay, so, uh, st. patrick's day. right.", "image": "data/S05_E18_23_0_2.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_306", "text": "we're--we're not here for the crumbs, you know?", "image": "data/S05_E10_397_0_2.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_307", "text": "dina, you're gonna be fine.", "image": "data/S04_E05_368_0_5.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_308", "text": "oh, my god, you're cheating.", "image": "data/S05_E20_291_0_9.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_309", "text": "that's what i thought.", "image": "data/S05_E07_521_0_3.jpg", "label": "aligned", "original_label": "Agree"}
+{"id": "mintrec_310", "text": "so if you see him, call me on the walkie immediately.", "image": "data/S04_E16_156_10_2.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_311", "text": "i think it's great that we're trying", "image": "data/S06_E05_208_0_8.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_312", "text": "amy, it's fine. it's just a call.", "image": "data/S06_E01_343_10_1.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_313", "text": "yeah, you played that very cool, by the way.", "image": "data/S04_E08_290_0_10.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_314", "text": "what? no, i didn't take any packages.", "image": "data/S05_E17_433_10_3.jpg", "label": "severe", "original_label": "Oppose"}
+{"id": "mintrec_315", "text": "whoa, whoa, whoa, whoa, whoa. we don't need to do that, okay?", "image": "data/S06_E03_477_10_3.jpg", "label": "severe", "original_label": "Prevent"}
+{"id": "mintrec_316", "text": "uh, so what was it?", "image": "data/S06_E04_575_0_3.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_317", "text": "just letting you know, i want a divorce.", "image": "data/S05_E20_487_0_5.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_318", "text": "hi amy, it's me.", "image": "data/S06_E02_337_0_1.jpg", "label": "aligned", "original_label": "Greet"}
+{"id": "mintrec_319", "text": "how's it going in there?", "image": "data/S06_E04_370_10_1.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_320", "text": "it is. it is a nice parking lot.", "image": "data/S04_E09_436_10_2.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_321", "text": "margo's my girlfriend.", "image": "data/S05_E13_515_10_2.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_322", "text": "it's worth a try.", "image": "data/S06_E03_112_0_3.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_323", "text": "oh, hey, excuse me, man. is this place open?", "image": "data/S04_E12_497_0_2.jpg", "label": "aligned", "original_label": "Ask for help"}
+{"id": "mintrec_324", "text": "uh, don't eat the baby food. the baby food is bad.", "image": "data/S04_E02_434_0_12.jpg", "label": "severe", "original_label": "Prevent"}
+{"id": "mintrec_325", "text": "can you just help me figure out how to play this?", "image": "data/S05_E15_204_0_2.jpg", "label": "aligned", "original_label": "Ask for help"}
+{"id": "mintrec_326", "text": "protect your future, chica. you could be going places.", "image": "data/S05_E07_513_0_3.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_327", "text": "no, girl. you won.", "image": "data/S05_E06_472_0_3.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_328", "text": "i was actually pretty upset about it. i stewed outside for hours.", "image": "data/S05_E19_250_0_2.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_329", "text": "look, i don't understand why everybody wants to talk everything to death. to talk everything to death.", "image": "data/S06_E04_595_10_2.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_330", "text": "oh, excuse me, sir- can i get this in a--", "image": "data/S04_E11_185_20_4.jpg", "label": "aligned", "original_label": "Ask for help"}
+{"id": "mintrec_331", "text": "you're right.", "image": "data/S05_E19_498_0_7.jpg", "label": "aligned", "original_label": "Agree"}
+{"id": "mintrec_332", "text": "that- that i need until end of day!", "image": "data/S05_E11_263_10_6.jpg", "label": "mild", "original_label": "Leave"}
+{"id": "mintrec_333", "text": "i have slept 90 minutes in three days.", "image": "data/S04_E06_453_0_5.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_334", "text": "your total is $23.87.", "image": "data/S05_E17_535_10_5.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_335", "text": "then i need you to go clean the men's washroom.", "image": "data/S04_E07_275_0_4.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_336", "text": "oh! amy.", "image": "data/S05_E11_251_10_6.jpg", "label": "aligned", "original_label": "Greet"}
+{"id": "mintrec_337", "text": "why don't we pick out items for each other?", "image": "data/S05_E10_56_0_3.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_338", "text": "cheyenne was right. i'm a screwup.", "image": "data/S05_E07_383_0_4.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_339", "text": "well, we don't allow street performers out here", "image": "data/S05_E08_237_20_3.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_340", "text": "sorry, this is where we're storing", "image": "data/S05_E08_437_10_3.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_341", "text": "you should never joke about bombs.", "image": "data/S05_E16_506_10_2.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_342", "text": "thanks for stopping by.", "image": "data/S04_E09_484_0_3.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_343", "text": "they ride us till we drop and then immediately sell our ass meat.", "image": "data/S06_E07_408_0_2.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_344", "text": "we raised the wage!", "image": "data/S05_E19_552_0_2.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_345", "text": "that's state-of-the-art wireless vr.", "image": "data/S05_E09_294_0_4.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_346", "text": "he's obviously toxic american masculinity.", "image": "data/S05_E06_22_0_2.jpg", "label": "severe", "original_label": "Taunt"}
+{"id": "mintrec_347", "text": "but lady is on my last nerve today.", "image": "data/S06_E04_67_0_3.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_348", "text": "so you may have heard about the new ownership, but we're still cloud 9", "image": "data/S05_E11_1_10_14.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_349", "text": "yeah, browsing's for cowards, dude!", "image": "data/S05_E10_219_0_3.jpg", "label": "severe", "original_label": "Taunt"}
+{"id": "mintrec_350", "text": "or--or--or put them in, like, a science lab, you know?", "image": "data/S05_E11_145_0_6.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_351", "text": "i mean, i applaud you for trying", "image": "data/S05_E10_150_20_5.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_352", "text": "oh, nice to have you, man.", "image": "data/S05_E11_511_0_12.jpg", "label": "aligned", "original_label": "Greet"}
+{"id": "mintrec_353", "text": "no one moved product like me back at sturgis & sons.", "image": "data/S05_E10_47_10_4.jpg", "label": "mild", "original_label": "Flaunt"}
+{"id": "mintrec_354", "text": "we'll consider that. thank you.", "image": "data/S05_E10_226_10_5.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_355", "text": "dan wants to put in a  famous glasses in history  display.", "image": "data/S05_E09_88_10_4.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_356", "text": "wait, there's one more i want you to try.", "image": "data/S05_E07_339_10_3.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_357", "text": "i want to make you a manager.", "image": "data/S04_E14_328_10_2.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_358", "text": "i've heard it five times.", "image": "data/S04_E14_13_0_3.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_359", "text": "maybe he's afraid of heights. put him on the floor.", "image": "data/S05_E18_35_10_8.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_360", "text": "yeah, okay. all right, look.", "image": "data/S05_E15_308_10_3.jpg", "label": "aligned", "original_label": "Agree"}
+{"id": "mintrec_361", "text": "this isn't even a break. this is just... unofficial break room time.", "image": "data/S05_E16_123_10_3.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_362", "text": "oh, yeah, sure.", "image": "data/S05_E17_568_10_8.jpg", "label": "aligned", "original_label": "Agree"}
+{"id": "mintrec_363", "text": "and terrence, you stole $40 billion", "image": "data/S04_E10_419_10_2.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_364", "text": "yeah, i haven't sold, like, anything today.", "image": "data/S04_E03_128_10_5.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_365", "text": "the--the case is closed. you can't reopen the case.", "image": "data/S06_E08_145_0_1.jpg", "label": "severe", "original_label": "Prevent"}
+{"id": "mintrec_366", "text": "why? glenn, what were you thinking?", "image": "data/S05_E17_525_10_3.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_367", "text": "tony!", "image": "data/S05_E21_142_10_8.jpg", "label": "aligned", "original_label": "Greet"}
+{"id": "mintrec_368", "text": "it's just, it feels silly for me to be giving a speech", "image": "data/S04_E17_267_0_23.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_369", "text": "you've got like a- like a post-pregnancy glow.", "image": "data/S04_E06_43_0_2.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_370", "text": "her hair looks like spaghetti that's been left in the pot.", "image": "data/S06_E06_420_0_2.jpg", "label": "severe", "original_label": "Taunt"}
+{"id": "mintrec_371", "text": "you stay right here.", "image": "data/S05_E10_423_30_2.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_372", "text": "and you're really good at holding things.", "image": "data/S04_E16_117_0_3.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_373", "text": "i'm sorry. i tried.", "image": "data/S05_E14_25_0_2.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_374", "text": "i'm sorry, cheyenne. gecko lady's weirder.", "image": "data/S05_E20_127_0_5.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_375", "text": "we should be talking about actual issues.", "image": "data/S06_E03_474_0_4.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_376", "text": "you don't have to be embarrassed.", "image": "data/S05_E19_196_10_4.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_377", "text": "the worst part about this is that colleen wins again.", "image": "data/S04_E11_473_0_6.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_378", "text": "i really hate her.", "image": "data/S04_E13_497_0_2.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_379", "text": "i budgeted six shrimp per person, so go to town.", "image": "data/S04_E17_287_20_7.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_380", "text": "where's my order? i need that washing machine.", "image": "data/S05_E09_329_0_2.jpg", "label": "aligned", "original_label": "Ask for help"}
+{"id": "mintrec_381", "text": "sorry, buddy. not you. you look totally normal.", "image": "data/S05_E16_148_20_2.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_382", "text": "but you are gonna be fine.", "image": "data/S05_E19_530_0_4.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_383", "text": "i order three jars of pumpkin spice salsa an hour ago, and i've been waiting in my car.", "image": "data/S05_E09_373_10_9.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_384", "text": "not today. look, i'm sorry about amy too.", "image": "data/S05_E09_573_10_8.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_385", "text": "and the sound quality's full  garbagio.", "image": "data/S05_E07_159_0_4.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_386", "text": "i have to fix it before maya sees.", "image": "data/S05_E07_321_0_4.jpg", "label": "mild", "original_label": "Leave"}
+{"id": "mintrec_387", "text": "glenn, apologize to the car i dented.", "image": "data/S05_E09_504_10_5.jpg", "label": "aligned", "original_label": "Arrange"}
+{"id": "mintrec_388", "text": "are you okay?", "image": "data/S06_E07_541_0_2.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_389", "text": "garrett can do anything.", "image": "data/S04_E08_136_0_5.jpg", "label": "severe", "original_label": "Taunt"}
+{"id": "mintrec_390", "text": "i was the best salesperson in the store.", "image": "data/S05_E10_51_0_2.jpg", "label": "mild", "original_label": "Flaunt"}
+{"id": "mintrec_391", "text": "this isn't the company i signed up to work for after they drove my family hardware store out of business.", "image": "data/S06_E09_558_100_3.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_392", "text": "eric, i told you, you can't just let anybody into my house.", "image": "data/S05_E09_79_0_4.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_393", "text": "he brings that up a lot. i'm sorry.", "image": "data/S05_E20_505_0_2.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_394", "text": "everything all right?", "image": "data/S04_E17_384_0_4.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_395", "text": "sorry, just a little nervous.", "image": "data/S06_E08_60_10_4.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_396", "text": "hey, they still have some!", "image": "data/S06_E01_144_0_4.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_397", "text": "i work here 16 to 19 hours a day, so i'm missing a lot of time with her.", "image": "data/S04_E13_129_10_2.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_398", "text": "he's lying right now because he stole the stuff.", "image": "data/S05_E17_517_0_4.jpg", "label": "severe", "original_label": "Criticize"}
+{"id": "mintrec_399", "text": "i'm pretty good at hiding things.", "image": "data/S04_E09_306_0_3.jpg", "label": "mild", "original_label": "Flaunt"}
+{"id": "mintrec_400", "text": "my husband's being such a b-munch right now.", "image": "data/S05_E07_145_0_3.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_401", "text": "okay, bye.", "image": "data/S04_E16_177_0_2.jpg", "label": "mild", "original_label": "Leave"}
+{"id": "mintrec_402", "text": "no, no, no, janet, don't hang up.", "image": "data/S04_E10_281_0_4.jpg", "label": "severe", "original_label": "Prevent"}
+{"id": "mintrec_403", "text": "attention cloud 9 shoppers and employees. i, uh--i just wanted to take this moment", "image": "data/S04_E14_1_100_3.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_404", "text": "yeah, it's nice.", "image": "data/S05_E08_113_0_4.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_405", "text": "they're not really known for their customer service.", "image": "data/S05_E14_353_0_1.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_406", "text": "well, then let's all stop annoying each other", "image": "data/S04_E12_394_0_8.jpg", "label": "severe", "original_label": "Prevent"}
+{"id": "mintrec_407", "text": "that i actually ended up suppressing votes?", "image": "data/S04_E04_515_0_6.jpg", "label": "mild", "original_label": "Flaunt"}
+{"id": "mintrec_408", "text": "it's not cool, it's not funny, and it's starting to make people uncomfortable.", "image": "data/S04_E16_243_0_3.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_409", "text": "thank you.", "image": "data/S05_E15_578_10_2.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_410", "text": "i'm doing this new curbside thing.", "image": "data/S05_E09_136_0_2.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_411", "text": "well, i really need ice cream cones.", "image": "data/S05_E10_422_10_2.jpg", "label": "aligned", "original_label": "Ask for help"}
+{"id": "mintrec_412", "text": "you know, it might be nice for parker to get some", "image": "data/S05_E18_190_0_6.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_413", "text": "good. are you sick?", "image": "data/S04_E16_329_10_7.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_414", "text": "the reason i'm asking is we don't accept your insurance.", "image": "data/S04_E05_156_0_3.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_415", "text": "i've got an idea. fire her ass.", "image": "data/S05_E19_391_10_2.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_416", "text": "hey, so what's the latest with operation", "image": "data/S05_E08_64_10_4.jpg", "label": "aligned", "original_label": "Care"}
+{"id": "mintrec_417", "text": "oh, that's really great.", "image": "data/S04_E09_332_10_2.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_418", "text": "ugh. what a waste of money.", "image": "data/S05_E12_315_40_2.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_419", "text": "you're satan workers!", "image": "data/S06_E01_447_10_3.jpg", "label": "severe", "original_label": "Taunt"}
+{"id": "mintrec_420", "text": "cindy, i'm gonna do that right now.", "image": "data/S06_E01_432_0_3.jpg", "label": "mild", "original_label": "Leave"}
+{"id": "mintrec_421", "text": "and unfortunately, it is supposed to rain.", "image": "data/S05_E15_529_10_5.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_422", "text": "it makes about as much sense", "image": "data/S04_E09_368_0_4.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_423", "text": "i'm just gonna be a good old-fashioned cowboy.", "image": "data/S05_E06_18_0_11.jpg", "label": "mild", "original_label": "Joke"}
+{"id": "mintrec_424", "text": "he's just a wuss who's still afraid of his parents.", "image": "data/S04_E07_334_0_5.jpg", "label": "severe", "original_label": "Taunt"}
+{"id": "mintrec_425", "text": "wow. cool shirts.", "image": "data/S05_E11_136_0_8.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_426", "text": "sorry i'm late. sorry.", "image": "data/S05_E06_35_50_10.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_427", "text": "is how a man manages to make it to 60 without hitting puberty.", "image": "data/S05_E13_106_0_2.jpg", "label": "severe", "original_label": "Taunt"}
+{"id": "mintrec_428", "text": "anyway, thank you for coming and talking to me.", "image": "data/S05_E17_126_10_1.jpg", "label": "aligned", "original_label": "Thank"}
+{"id": "mintrec_429", "text": "like, you need to communicate better.", "image": "data/S04_E03_320_0_1.jpg", "label": "aligned", "original_label": "Advise"}
+{"id": "mintrec_430", "text": "love the socks, by the way. so thoughtful.", "image": "data/S06_E10_257_10_2.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_431", "text": "no, no, no, it's called multi-level marketing.", "image": "data/S05_E12_129_20_6.jpg", "label": "severe", "original_label": "Oppose"}
+{"id": "mintrec_432", "text": "this display's my masterpiece right here.", "image": "data/S05_E07_554_0_4.jpg", "label": "aligned", "original_label": "Introduce"}
+{"id": "mintrec_433", "text": "how am i supposed to find $27,000 worth of stuff to repair in one day? there's just not that much stuff that's broken!", "image": "data/S04_E14_169_0_3.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_434", "text": "yeah, it just takes practice.", "image": "data/S05_E14_109_0_4.jpg", "label": "aligned", "original_label": "Comfort"}
+{"id": "mintrec_435", "text": "that was- good breakthrough.", "image": "data/S04_E03_413_0_2.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_436", "text": "this is great!", "image": "data/S05_E17_80_0_2.jpg", "label": "aligned", "original_label": "Praise"}
+{"id": "mintrec_437", "text": "hey, you've got a thing coming up.", "image": "data/S05_E13_213_0_3.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_438", "text": "amy, us men of the store are tired of taking orders from a woman.", "image": "data/S05_E11_526_100_6.jpg", "label": "severe", "original_label": "Complain"}
+{"id": "mintrec_439", "text": "sandra, you have to stop.", "image": "data/S05_E17_353_0_5.jpg", "label": "severe", "original_label": "Prevent"}
+{"id": "mintrec_440", "text": "i mean, i do kind of have to go.", "image": "data/S05_E18_366_10_2.jpg", "label": "mild", "original_label": "Leave"}
+{"id": "mintrec_441", "text": "oh, okay, well, yeah. don't--do not give him that.", "image": "data/S05_E18_395_10_2.jpg", "label": "severe", "original_label": "Prevent"}
+{"id": "mintrec_442", "text": "guys, i sent carol to lunch so that we could talk about", "image": "data/S05_E19_389_0_5.jpg", "label": "aligned", "original_label": "Inform"}
+{"id": "mintrec_443", "text": "i'm sorry, garrett", "image": "data/S05_E08_90_0_2.jpg", "label": "aligned", "original_label": "Apologise"}
+{"id": "mintrec_444", "text": "your fault because the two of you don't know", "image": "data/S05_E09_540_0_7.jpg", "label": "severe", "original_label": "Criticize"}
